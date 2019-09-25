@@ -1,2 +1,1 @@
-# gurkankaratas
-Serhat Demirkan Music AdManager
+Kes lan
